@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **innovative projects that drive social change, improve the quality of life, or contribute to a sustainable and ethical future. If your organization is focused on building solutions with a positive impact, let’s connect!**
 
-- 📫 How to reach me **victorvillarez12@gmail.com**
-
 - ⚡ Fun fact **When I’m not coding, I’m volunteering in community projects, because giving back is as important as building great tech.**
 
 <h3 align="left">Connect with me:</h3>

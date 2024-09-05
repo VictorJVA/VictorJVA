@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorjva" alt="victorjva" /></a> </p>
 
-- 🔭 I’m currently working on part time with **Sofasa - Renault**
+- 🔭 I’m currently working part time with **Sofasa - Renault**
 
 - 🌱 I’m currently learning **React, Next.js, Javascript**
 

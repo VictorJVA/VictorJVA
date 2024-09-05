@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Javascript**
 
-- 👯 I’m looking to collaborate on **I’m eager to collaborate on innovative projects that drive social change, improve the quality of life, or contribute to a sustainable and ethical future. If your organization is focused on building solutions with a positive impact, let’s connect!**
+- 👯 I’m looking to collaborate on **innovative projects that drive social change, improve the quality of life, or contribute to a sustainable and ethical future. If your organization is focused on building solutions with a positive impact, let’s connect!**
 
 - 📫 How to reach me **victorvillarez12@gmail.com**
 

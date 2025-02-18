@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorjva" alt="victorjva" /></a> </p>
 
-- 🔭 I’m currently working part time with **Sofasa - Renault**
-
 - 🌱 I’m currently learning **React, Next.js, Javascript**
 
-- 👯 I’m looking to collaborate on **innovative projects that drive social change, improve the quality of life, or contribute to a sustainable and ethical future. If your organization is focused on building solutions with a positive impact, let’s connect!**
+- 👯 I’m looking to collaborate on **innovative projects that drive social change. If your organization is focused on building solutions with a positive impact, let’s connect!**
 
 - ⚡ Fun fact **When I’m not coding, I’m volunteering in community projects, because giving back is as important as building great tech.**
 

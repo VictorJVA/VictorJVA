@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Victor J Villadiego</h1>
+<h1 align="center">Hi, i'm Victor J Villadiego</h1>
 <h3 align="center">A passionate Software engineer student from universidad EAFIT-Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorjva" alt="victorjva" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js, Javascript**
+- 🌱 I’m currently learning **Go, React, Next.js**
 
 - 👯 I’m looking to collaborate on **innovative projects that drive social change. If your organization is focused on building solutions with a positive impact, let’s connect!**
 

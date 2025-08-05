@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software engineer student from universidad EAFIT-Colombia</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning GenAI using LLM's, Spring Framework<br><br>👯 I’m always up for working on meaningful projects that aim to make a positive impact. If your team is building something that helps people or communities, I’d love to connect.!<br><br>⚡Outside of coding, I spend time volunteering in local community projects. For me, giving back is just as important as building cool tech.
+🌱 I’m currently learning GenAI, Spring Framework<br><br>👯 I’m always up for working on meaningful projects that aim to make a positive impact. If your team is building something that helps people or communities, I’d love to connect.!<br><br>⚡Outside of coding, I spend time volunteering in local community projects. For me, giving back is just as important as building cool tech.
 
 
 ## 🌐 Socials:

@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorjvilladiego/)
 
-[![My-Portfolio](https://img.shields.io/badge/MyPortfolio)](https://victor-landing-one.vercel.app/)
+[![MyPortfolio](https://img.shields.io/badge/any_text-you_like-blue)](https://victor-landing-one.vercel.app/)
 
 
 # 💻 Tech Stack:
